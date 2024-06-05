@@ -4,7 +4,7 @@
 
 以操作系统项目为灵感的 `RISC-V` 架构 `xv6` 系统下的用户态堆利用
 
-附件为 `release.zip`
+题目附件为 `release.zip`
 
 # uheap
 
